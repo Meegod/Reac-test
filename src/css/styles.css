@@ -1,0 +1,32 @@
+.btn{
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .btn:hover {
+    background-color: #2980b9;
+  }
+
+  .flex{
+    display: flex;
+    margin: 220px auto;
+    max-width: 1960px;
+    align-content: center;
+    /* justify-content: center; */
+}
+
+.result{
+    position: relative;
+    font-weight: bold;
+    font-size: 2rem;
+    top:4em;
+    color: red ;
+    /* bottom: 100px;
+    left: 100px; */
+}
